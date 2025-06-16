@@ -1,0 +1,14 @@
+aiohttp
+crawl4ai
+google-generativeai
+pinecone-client
+python-dotenv
+streamlit
+
+
+python-dotenv
+psycopg2-binary
+qdrant-client
+google-generativeai
+aiohttp
+crawl4ai
